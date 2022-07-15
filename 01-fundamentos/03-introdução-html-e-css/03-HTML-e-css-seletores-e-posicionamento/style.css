@@ -6,4 +6,7 @@
 }
 .paragrafos {
     background-color: rgb(250, 248, 248);
+    width: 80%;
+    height: 300px;
+    overflow: auto;
 }
