@@ -23,7 +23,7 @@
 
 // //+. -, *, /, **
 
- let salary = 3500;
+//  let salary = 3500;
 
 // console.log(salary + salary);
 // console.log(salary - salary);
@@ -31,8 +31,16 @@
 // console.log(salary / salary);
 // console.log(3 ** 3);
 
-salary++;
+// salary++;
 
-console.log(salary);
+// console.log(salary);
+
+const base = 5;
+const height = 8;
+const area = base * height;
+const perimeter = base + height + area;
+
+console.log(area);
+console.log(perimeter);
 
 
