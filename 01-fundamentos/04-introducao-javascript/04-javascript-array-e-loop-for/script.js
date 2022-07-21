@@ -12,7 +12,17 @@
 
 //-----------------------------------------------------------
 
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
-menu.push("Contato");
+// let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+// menu.push("Contato");
 
-console.log(menu);
+// console.log(menu);
+
+//-----------------------------------------------------------
+
+// let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
+
+// for (let index =0; index < groceryList.length; index +=1) {
+//     console.log("");
+//     console.log(groceryList[index]);
+// }
+
